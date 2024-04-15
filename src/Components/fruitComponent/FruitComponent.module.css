@@ -1,0 +1,16 @@
+.fruit {
+  display: flex;
+  flex-direction: row;
+  width: 240px;
+  align-items: center;
+}
+
+.fruitP {
+  width: 100px;
+  font-size: 16px;
+}
+
+.fruitB {
+  width: 36px;
+  height: 36px;
+}
